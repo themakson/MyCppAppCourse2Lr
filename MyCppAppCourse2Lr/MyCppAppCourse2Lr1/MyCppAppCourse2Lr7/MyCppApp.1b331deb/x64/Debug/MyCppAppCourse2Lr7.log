@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(50,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(72,61): warning C4305: =: усечение из "double" в "float"
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(126,37): warning C4305: =: усечение из "double" в "float"
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(137,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(137,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(145,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\main.cpp(145,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MyCppAppCourse2Lr7.vcxproj -> C:\Users\Максим\source\repos\MyCppAppCourse2Lr7\x64\Debug\MyCppAppCourse2Lr7.exe
