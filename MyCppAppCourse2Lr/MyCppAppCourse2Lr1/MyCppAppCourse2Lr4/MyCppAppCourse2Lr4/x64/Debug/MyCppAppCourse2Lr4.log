@@ -1,0 +1,6 @@
+﻿  Calloc.cpp
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr4\MyCppAppCourse2Lr4\Calloc.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr4\MyCppAppCourse2Lr4\Calloc.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Malloc.cpp
+  Создание кода...
+  MyCppAppCourse2Lr4.vcxproj -> C:\Users\Максим\source\repos\MyCppAppCourse2Lr4\x64\Debug\MyCppAppCourse2Lr4.exe
