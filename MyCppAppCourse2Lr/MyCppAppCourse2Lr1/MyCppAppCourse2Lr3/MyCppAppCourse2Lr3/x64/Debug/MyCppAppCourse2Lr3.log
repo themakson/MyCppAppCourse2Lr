@@ -1,0 +1,5 @@
+﻿  MyCppAppCourse2Lr3.cpp
+C:\Users\Максим\source\repos\MyCppAppCourse2Lr3\MyCppAppCourse2Lr3\MyCppAppCourse2Lr3.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortUppEvenDownOddcpp.cpp
+  Создание кода...
+  MyCppAppCourse2Lr3.vcxproj -> C:\Users\Максим\source\repos\MyCppAppCourse2Lr3\x64\Debug\MyCppAppCourse2Lr3.exe
